@@ -31,3 +31,9 @@ into the seesaw library. Per the RKJXT1F datasheet, when PUSH goes active
 (low), check if any of A/B/C/D are also active (low). If so, it's a directional
 press. Else, it was a PUSH.
 
+![Schematic](doc/schematic.jpg)
+
+![Front 3D](doc/front_3d.jpg)
+
+![Oblique 3D](doc/oblique_3d.jpg)
+
